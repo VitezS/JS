@@ -1,1 +1,1 @@
-alert("Hi Madafaka")
+alert("Hi Madafaka");
